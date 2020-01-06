@@ -1,2 +1,3 @@
 # Population-Growth
-Population growth in space
+Modeling and visualizing the population growth in space. 
+ 
